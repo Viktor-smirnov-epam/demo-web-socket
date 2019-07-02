@@ -1,0 +1,6 @@
+2019-07-01 14:38:37 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAT" not found; SQL statement:
+select cat0_.id as id1_0_, cat0_.name as name2_0_ from Cat cat0_ [42102-199]
+2019-07-01 14:43:37 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAT" not found; SQL statement:
+select cat0_.id as id1_0_, cat0_.name as name2_0_ from Cat cat0_ [42102-199]
